@@ -10,3 +10,4 @@
 - Antialiasing
 
 ![](https://github.com/JNNGL/RealTime-RayTracing/raw/main/images/1.png)
+![](https://github.com/JNNGL/RealTime-RayTracing/raw/main/images/2.png)
