@@ -1,6 +1,8 @@
 # RealTime-RayTracing
 
+Written using C++ and SFML
 
+Some features:
 - Reflections (Recursive level 2)
 - Smooth shadows
 - Ambient Lightning
